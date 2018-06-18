@@ -1,2 +1,2 @@
 # testJenkins
-Testing for standing up Jenkins
+Testing for the standing up Jenkins
